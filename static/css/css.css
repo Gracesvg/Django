@@ -1,0 +1,18 @@
+h1{
+    color: cadetblue;
+    background-color: beige;
+    text-align: center;
+}
+h2{
+    color: crimson;
+    background-color: black;
+    text-align: center;
+}
+h3{
+    color: darkgreen;
+    background-color: floralwhite;
+    text-align: center;
+}
+p{
+    padding: 15px;
+}
